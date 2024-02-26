@@ -1,0 +1,25 @@
+body {
+  padding-bottom: 100px; /* Ajustez la valeur selon vos besoins */
+}
+
+header {
+  width: 100%;
+  position: fixed;
+  top: 0;
+}
+
+footer {
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+  background-color: white;
+  left: 0;
+}
+
+.player-form-container {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  width: 80%; /* Ajustez la largeur selon vos besoins */
+}/*# sourceMappingURL=style.css.map */
